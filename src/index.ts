@@ -17,6 +17,7 @@ export { UserGetsUserSubscriptionsRequest } from './requests/UserGetsUserSubscri
 export { ErrorDto } from './dtos/ErrorDto.js'
 export { CardDto } from './dtos/CardDto.js'
 export { UserDto } from './dtos/UserDto.js'
+export { IdDto } from './dtos/IdDto.js'
 export { SubscriptionDto } from './dtos/SusbcriptionDto.js'
 export { DateISO } from './types/DateISO'
 export { Id } from './types/Id'
