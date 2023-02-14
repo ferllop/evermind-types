@@ -1,4 +1,4 @@
-import {Visibility} from '../../domain/card/Visibility.js'
+import {Visibility} from '../types/Visibility'
 
 export type CardDto = {
     id: string,
