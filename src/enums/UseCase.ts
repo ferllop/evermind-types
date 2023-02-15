@@ -8,4 +8,6 @@ export type UseCase = 'UserCreatesCardUseCase' |
     'UserSearchesForCardsUseCase' |
     'UserSignsUpUseCase' |
     'UserSubscribesToCardUseCase' |
-    'UserUnsubscribesFromCardUseCase'
+    'UserTransfersCardUseCase' |
+    'UserUnsubscribesFromCardUseCase' |
+    'UserGetsUserSubscriptionsUseCase'
