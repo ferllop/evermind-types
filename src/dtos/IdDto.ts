@@ -1,3 +1,3 @@
-import { Id } from '../types/Id'
+import { Id } from '../types/Id.js'
 
 export type IdDto = { id: Id; };

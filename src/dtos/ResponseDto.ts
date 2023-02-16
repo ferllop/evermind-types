@@ -1,4 +1,4 @@
-import {ErrorDto} from './ErrorDto'
+import {ErrorDto} from './ErrorDto.js'
 
 export type ResponseDto<T> = {
     error: ErrorDto
